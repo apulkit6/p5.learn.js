@@ -1,5 +1,5 @@
 /*
-    Copyright (C) 2021-2023 Nick McIntyre, Maxim Schoemaker, Ibrahim Almetwale. All rights reserved.
+    Copyright (C) 2021-2023 Tamir Shklaz, Nick McIntyre, Maxim Schoemaker, Ibrahim Almetwale. All rights reserved.
     Developed by Strive: https://www.strivemath.com/
     Source: https://github.com/StriveMath/p5-python-web
 */
