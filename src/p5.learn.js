@@ -136,7 +136,8 @@ p5.prototype.image = function (
       defH = img.elt.videoHeight;
     }
 
-    const _height = height ?? defH;
+    let _height = 0;
+    if (this._renderer._imageMode === this.CORNER) _height = height ?? defH;
     arguments[2] = this.height - y - _height;
 
     this._image(...arguments);
